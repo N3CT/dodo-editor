@@ -1,0 +1,32 @@
+STEP
+
+~ For no root user
+
+1. Backup your savedata using cloud on your ARK
+
+2. Install Virtual Master on your phone
+	-required enable shared files to backup on your storage
+3. Add VM
+	-required VM 64bit with Vulkan support and android 7 minimum to running ARK MOBILE
+	(recommended using Android 9)
+
+4. Enable google service on your VM
+
+5. Install Dodo Editor, Google Play Game and ARK MOBILE
+
+6. Login on your google play game
+
+7. Running ARK on your VM
+	-IMPORTANT : ARK MUST BE LOGIN ON YOUR GOOGLE ACCOUNT
+
+8. Select Single Player and choose Manage Save Data
+
+9. Restore your savedata using cloud google account
+
+10. Enter your world and click manual save
+
+11. Close ARK and open Dodo Editor
+
+12. Click Export
+	-your can check the file on your VM storage
+	(/storage/emulated/0/Dodo Editor)
